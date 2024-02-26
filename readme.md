@@ -12,3 +12,4 @@ git merge branchname - совместить изменения в branchname с 
 git remote add origin https://github.../.../.git - привязка удаленного репозитория к локальному.  
 git push - загрузить файлы на удаленный сервер.  
 git pull - загрузить файлы на локальный сервер.  
+git clone https://.../.git - клонирование репозитория.
