@@ -10,3 +10,5 @@ git branch -D branchname - удалить ветку.
 git checkout branchname - переключиться на ветку.  
 git merge branchname - совместить изменения в branchname с главной веткой.  
 git remote add origin https://github.../.../.git - привязка удаленного репозитория к локальному.  
+git push - загрузить файлы на удаленный сервер.  
+git pull - загрузить файлы на локальный сервер.  
